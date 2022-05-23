@@ -7,7 +7,7 @@ const Navigation = () => {
       <div className="navigation">
         <Link className="logo-container" to="/">
           <div className="logo">
-            B<span className="hook">hook</span>worm
+            B<span className="hook">oo</span>kworm
           </div>
         </Link>
         <div className="nav-links-container">
